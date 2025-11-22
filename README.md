@@ -122,10 +122,10 @@ You’re ready to go!
 (Add your screenshots here after uploading them to /docs)
 
 ## 📸 Screenshots
-![Screen 1](docs/screenshot1.jpg)
-![Screen 2](docs/screenshot2.jpg)
-![Screen 3](docs/screenshot3.jpg)
-![Screen 4](docs/screenshot4.jpg)
+![Tela Inicial](docs/screen1.jpg)
+![Painel de Contactos](docs/screen2.jpg)
+![Painel de Chat](docs/screen3.jpg)
+![Definições](docs/screen4.jpg)
 
 👨‍💻 Author
 
