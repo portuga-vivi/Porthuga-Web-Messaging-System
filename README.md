@@ -115,11 +115,9 @@ Open the browser:
 http://localhost/porthuga_github_ready
 
 
-You’re ready to go!
 
 📸 Screenshots
 
-(Add your screenshots here after uploading them to /docs)
 
 ## 📸 Tela Inicial
 ![Tela Inicial](docs/screen1.jpeg)
