@@ -121,11 +121,16 @@ You’re ready to go!
 
 (Add your screenshots here after uploading them to /docs)
 
-## 📸 Screenshots
-
+## 📸 Tela Inicial
 ![Tela Inicial](docs/screen1.jpeg)
+
+## 📸 Painel de Contactos
 ![Painel de Contactos](docs/screen2.jpeg)
+
+## 📸 Painel de Chat
 ![Painel de Chat](docs/screen3.jpeg)
+
+## 📸 Definições
 ![Definições](docs/screen4.jpeg)
 
 👨‍💻 Author
